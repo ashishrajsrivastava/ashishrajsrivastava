@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Microsoft Azure**
 
-- 🌱 I’m currently learning **JavaScript, Azure Bicep, Kubernetes**
+- 🌱 I’m currently learning **JavaScript, Kubernetes**
 
-- 📝 I regularly write articles on [www.azuredevopspro.com](www.azuredevopspro.com)
+- 📝 I regularly write articles on [www.azuredevopspro.com](https://www.azuredevopspro.com)
 
 - 📫 How to reach me **ashishraj@azuredevopspro.com**
 
